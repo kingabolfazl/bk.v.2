@@ -1,0 +1,9 @@
+create table test45(
+   id INT NOT NULL AUTO_INCREMENT,
+   name VARCHAR(225) NOT NULL,
+   url VARCHAR(225) NOT NULL,
+   text TEXT,
+   pic VARCHAR(225) NOT NULL,
+   datum DATE,
+   PRIMARY KEY ( tutorial_id )
+);
